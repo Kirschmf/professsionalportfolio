@@ -1,0 +1,68 @@
+{
+  "name": "Matheus Kirsch",
+  "photo": "./assets/img/minhafoto.jpg",
+  "job": "Front End Developer",
+  "location": "Porto Alegre - RS",
+  "phone": "(51) 991917317",
+  "email": "makfonseca@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (fluente)",
+    "Espanhol (intermediário)"
+
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de um portfólio profissional",
+      "url": "este aqui que estás vendo",
+      "github": true
+    },
+    {
+      "name": "Criação de uma pokedéx utilizando JavaScript",
+      "url": "https://github.com/Kirschmf/pokedexjs.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Oficial do Exército Brasileiro (2° Tenente)",
+      "period": "2021 - 2024",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantos valores e princípios que carrego até os dias de hoje."
+    }
+  ]
+}
